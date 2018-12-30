@@ -6,7 +6,7 @@
 name: Art Bueno
 
 # Short bio or description (displayed in the header)
-description: Business Analyst with Dreams
+description: Business Analyst in the Crescent City
 
 #
 # Flags below are optional
@@ -44,7 +44,7 @@ footer-links:
   github: AWEEKJ/kiko-now
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/artbueno
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
