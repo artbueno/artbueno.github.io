@@ -1,1 +1,1 @@
-Forked from https://github.com/barryclark/jekyll-now. Thanks Barry!
+Forked with appreciation from https://github.com/barryclark/jekyll-now. Thanks Barry.
