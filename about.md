@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Originally from the Washington, D.C. area, I moved to New Orleans about ten years ago to teach. Now I work as a business analyst for a global tech company. I'm passionate about issues of diversity and equity in tech.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mail@artbueno.com](mailto:mail@artbueno.com)
